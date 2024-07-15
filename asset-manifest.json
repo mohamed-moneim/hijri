@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hijri/static/css/main.2070e76d.css",
-    "main.js": "/hijri/static/js/main.828ca197.js",
+    "main.css": "/hijri/static/css/main.3624f249.css",
+    "main.js": "/hijri/static/js/main.99f9e6a3.js",
     "static/js/453.d0f3d48b.chunk.js": "/hijri/static/js/453.d0f3d48b.chunk.js",
     "static/media/calendar.png": "/hijri/static/media/calendar.e47105e50b915c2d7488.png",
     "index.html": "/hijri/index.html",
-    "main.2070e76d.css.map": "/hijri/static/css/main.2070e76d.css.map",
-    "main.828ca197.js.map": "/hijri/static/js/main.828ca197.js.map",
+    "main.3624f249.css.map": "/hijri/static/css/main.3624f249.css.map",
+    "main.99f9e6a3.js.map": "/hijri/static/js/main.99f9e6a3.js.map",
     "453.d0f3d48b.chunk.js.map": "/hijri/static/js/453.d0f3d48b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2070e76d.css",
-    "static/js/main.828ca197.js"
+    "static/css/main.3624f249.css",
+    "static/js/main.99f9e6a3.js"
   ]
 }
